@@ -5,7 +5,7 @@ from tkinter import *
 root=tkinter.Tk()
 root.geometry("230x230")
 root.resizable(0,0)
-root.title("Test Calculator")
+root.title("My Calculator")
 expression=""
 input_text = tkinter.StringVar()
 # input_text=""
