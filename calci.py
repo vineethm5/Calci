@@ -3,7 +3,7 @@ from tkinter import *
 
 # tkinter._test()
 root=tkinter.Tk()
-root.geometry("230x230")
+root.geometry("190x150")
 root.resizable(0,0)
 root.title("My Calculator")
 expression=""
